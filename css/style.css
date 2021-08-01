@@ -258,7 +258,7 @@ img {
   top: 50%;
   -webkit-transform: translateY(-50%);
           transform: translateY(-50%);
-  background: url(/img/news-arrow.png) no-repeat center center/contain;
+  background: url(../img/news-arrow.png) no-repeat center center/contain;
 }
 
 .news__link {
@@ -575,7 +575,7 @@ td {
 ====================================================================*/
 .qa {
   position: relative;
-  background: url(/img/qa-bg.png) no-repeat center center/cover;
+  background: url(../img/qa-bg.png) no-repeat center center/cover;
   max-width: 100%;
 }
 
@@ -759,7 +759,7 @@ td {
 # Contact
 ====================================================================*/
 .contact {
-  background: url(/img/contact-bg.png) no-repeat center center/cover;
+  background: url(../img/contact-bg.png) no-repeat center center/cover;
   max-width: 100%;
   margin-top: 256px;
 }
@@ -769,7 +769,7 @@ td {
 }
 
 .contact__head {
-  background: url(/img/contact1.png) no-repeat center center/cover;
+  background: url(../img/contact1.png) no-repeat center center/cover;
   color: #FFF;
   text-align: center;
   padding: 60px 0;
